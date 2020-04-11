@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\USER\\Anaconda3\\envs\\bnn\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs":["--generated-members=numpy.*,torch.*"]
+}
